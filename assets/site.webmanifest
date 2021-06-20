@@ -1,0 +1,9 @@
+{
+    "name": "eButterfly Labs",
+    "short_name": "eblabs",
+    "icons": [
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
